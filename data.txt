@@ -1,0 +1,3 @@
+let dataList = {
+    "sample": "data from data.txt file"
+};

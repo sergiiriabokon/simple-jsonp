@@ -1,0 +1,3 @@
+p.s3fc-hidden::after {
+    content: "{cssJson: 'cssJsonValues'}";
+}
